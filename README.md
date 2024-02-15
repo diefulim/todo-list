@@ -10,7 +10,7 @@ Projenin tasarımında tamamen bootstrap kullanılmış kendimce html kullanarak
 
 ### Projenin Katkıları;
 
-Projenin katkıları algoritma geliştirme oldu daha hızlı ve kısa kodlar ile daha fazla işler yapabilmeyi öğrendim nasıl daha hızlı ve kısa yoldan düşünüp yazabileceğimi bu projeyi yaparken uzun uzun yollar yerine verimli yolları tercih edip sonradan eklemeler yapabilmeyide öğrendim.
+Projenin katkıları algoritma geliştirme oldu daha hızlı ve kısa kodlar ile daha fazla işler yapabilmeyi öğrendim ve bu projeyi yaparken uzun uzun yollar yerine verimli yolları tercih edip sonradan eklemeler yapabilmeyi öğrendim.
 
 ## Görseller
 ### Genel Görünüm
