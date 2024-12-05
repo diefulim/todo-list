@@ -24,5 +24,3 @@ Projenin katkıları algoritma geliştirme oldu daha hızlı ve kısa kodlar ile
 ![Screenshot_3](https://github.com/diefulim/todo-list/assets/130100393/21e7bfa2-7ee4-477d-9741-49c0cb87f2d1)
 ![Screenshot_4](https://github.com/diefulim/todo-list/assets/130100393/737494bd-c616-4887-8e07-7153bcbb770c)
 ![Screenshot_5](https://github.com/diefulim/todo-list/assets/130100393/6bba0fbf-fe57-4e71-b60d-8aab20cdb7e0)
-
-(!) Tüm todolar temizlendiğinde veya todo silindiğinde ekrana herhangi bir uyarı veya başarıyla silindi mesajı gelmez dilerseniz kolayca eklenebilir!
